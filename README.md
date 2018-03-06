@@ -27,3 +27,6 @@ The list is made based upon a [Quora answer](https://www.quora.com/If-you-could-
 22. [Computational homology by Kaczynski](kaczynski-computational-homology.pdf)
 23. [The Topology of Fiber Bundles by Steenrod](steenrod-topology-of-fiber-bundles.pdf)
 
+Some other books:
+
+24. [Generalized Linear Models by McCullagh and Nelder](mccullagh-generalized-linear-models.pdf)
